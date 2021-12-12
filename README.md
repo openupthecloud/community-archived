@@ -1,9 +1,9 @@
 
-## Open Up The Cloud
+## Open Up The Cloud
 
 Get into cloud and connect with the community! 🚀
 
-## Questions, Buddies, Events
+## Questions, Buddies, Events
 
 ❓ Got a cloud question =>  [Add your question here](https://github.com/openupthecloud/cloud-questions/issues/1)
 
