@@ -1,4 +1,4 @@
-A repo to answer quite literally _every_ question about the cloud. 
+Get into cloud and connect with the community! 🚀
 
 ❓ Got a cloud question =>  [Add your question here](https://github.com/openupthecloud/cloud-questions/issues/1)
 
